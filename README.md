@@ -2,5 +2,5 @@
 
 Estudiantes 
 
-Adrian Ignacio Varillas Mata 
-Álvaro Felipe Quispe Carrillo 
+-Adrian Ignacio Varillas Mata 
+-Álvaro Felipe Quispe Carrillo 
